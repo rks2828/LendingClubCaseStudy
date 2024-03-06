@@ -21,7 +21,7 @@
 ## Technologies Used
 - Python 3.12.2
 - Jupyter Notebook
-- python libraries - pandas, matplotlib, seaborn
+- python libraries - numpy, pandas, matplotlib, seaborn
 
 ## Exploratory Data Analysis
 Below are the EDA steps performed, 
