@@ -66,8 +66,7 @@ Below are the EDA steps performed,
 - **Segmented Univariate Analysis**
 
 - **Bivariate Analysis**
-    
-- **Python libraries used** - pandas, matplotlib, seaborn
+
   
 ## Conclusions
 - Univariate Analysis
