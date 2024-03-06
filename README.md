@@ -71,13 +71,18 @@ Below are the EDA steps performed,
   
 ## Conclusions
 - Univariate Analysis
-  - 80% of the loans are in fully paid status and almost 15% are charged-off.   
+  - 80% of the loans are in fully paid status and almost 15% are charged off.   
 - Segmented Univariate Analysis
-  - Borrowers with higher Grades have a high chance of default
+  - Borrowers with higher Grades have a high chance of default.
+  - The borrower with a higher term of the loan has a high chance of defaulting.
+  - The borrower with the purpose of "Small Business" has a high chance of defaulting.
 - Bivariate Analysis
-  - The borrower who have high revolving utilization rate have high chance to default.
-  - The borrower with purpose of "Small Business" have high chance to default.
-  - The borrower making late monthly credit installment payments have high chance to default.
+  - The borrower who has a high revolving utilization rate has a high chance of defaulting.
+  - The borrower making late monthly credit installment payments has a high chance of defaulting.
+  - The borrower with a higher DTI-Debt to Income ratio has a high chance of defaulting.
+  - The borrower with a higher number of public record bankruptcies has a high chance of defaulting.
+  - The borrower who has made a higher number of loan inquiries has a high chance of defaulting.
+  
 
 
 ## Acknowledgements
